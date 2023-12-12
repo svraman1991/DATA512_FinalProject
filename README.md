@@ -37,3 +37,7 @@ The visualization, including the power BI file and the input files for the PBI f
 # Reports
 The various reports and write ups created as part of this project are under the folder named "Reports"
 
+# Outputs 
+The final outputs of the analysis are in the Notebooks folder in the file "Final Code"
+
+
