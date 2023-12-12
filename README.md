@@ -24,9 +24,9 @@ The code for this analysis is present in the folder named "Notebooks" in the fil
 
 # Terms of use for the source govt datasets
 
-[USGS Terms of Use] (https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map)
+[USGS Terms of Use](https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map)
 
-[AQS Terms of Use] (https://aqs.epa.gov/aqsweb/documents/data_api.html#signup)
+[AQS Terms of Use](https://aqs.epa.gov/aqsweb/documents/data_api.html#signup)
 
 # API Documentation
 [AQS API] (https://aqs.epa.gov/aqsweb/documents/data_api.html)
