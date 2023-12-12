@@ -29,7 +29,7 @@ The code for this analysis is present in the folder named "Notebooks" in the fil
 [AQS Terms of Use](https://aqs.epa.gov/aqsweb/documents/data_api.html#signup)
 
 # API Documentation
-[AQS API] (https://aqs.epa.gov/aqsweb/documents/data_api.html)
+[AQS API](https://aqs.epa.gov/aqsweb/documents/data_api.html)
 
 # Visualization
 The visualization, including the power BI file and the input files for the PBI file are in the folder named "Visualization - Power BI"
